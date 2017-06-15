@@ -1,0 +1,9 @@
+How is the staging area different from the working directory and the repository? 
+Stagin: Allow us to take control by recording changes by logical change.
+
+What value do you think it offers?
+The value that staging offer I will see on the next chapter while I keep learning.
+
+
+
+Well still here making changes to this file and nothing happen. We'll see what's going to happen with this new changes now.
