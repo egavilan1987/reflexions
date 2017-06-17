@@ -1,0 +1,9 @@
+1-Making a lot of changes here. I'd like to say. 
+2-Yes!! I delete a part of the things that a wrote before because I just want to know when I make some changes in this 
+3-files, also I going to number each line on this file.
+
+
+13.Reflect: Commit Size
+How can you use the staging area to make sure you have one commit per logical change?
+That something that I am not really sure yet, but I think I'll figure it out sooner than later.
+
